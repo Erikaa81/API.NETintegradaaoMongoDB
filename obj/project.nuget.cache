@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1yL9CUQXx10LdW5VVtoaG1EhABPHuM7weETeBtxT7FLXXs9rHWQn3rLQ+I5/+y1rhpEv2ORI3EE/RH9gtzGlQ==",
+  "success": true,
+  "projectFilePath": "C:\\git\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erika\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\mongodb.bson\\2.12.0\\mongodb.bson.2.12.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\mongodb.driver\\2.12.0\\mongodb.driver.2.12.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\mongodb.driver.core\\2.12.0\\mongodb.driver.core.2.12.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.0\\mongodb.libmongocrypt.1.2.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\erika\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
